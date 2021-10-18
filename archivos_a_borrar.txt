@@ -1,0 +1,12 @@
+# Archivos/ funciones del código original que fueron removidos de esta versión para evitar filtración de información sobre servicios de la Filmoteca.
+# Dumps de la en formato json.
+car.json
+cartel.son
+person.json
+stills.json
+audio_unica.json
+cd_fotomontajes.csv
+cd_foto_rodajes.csv
+cd_vhs_dvd
+
+# Las configuraciones relacionadas a ips, nombres de bases y usuarios se dejan intactas pues todas hacen rferencia a conecciones locales / de desarrollo.
