@@ -1,4 +1,4 @@
-# Centro dee Documentación - Migración de vase de datos
+# Centro de Documentación - Migración de base de datos
 
 ## Ejecutar migración completa:
 Movernos al directorio scripts_python.
