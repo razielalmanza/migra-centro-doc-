@@ -1,5 +1,14 @@
 # Centro dee Documentación - Migración de vase de datos
 
+---
+**NOTA**
+
+Este repositorio es una copia de la última versión del repositorio alojado en los servidores de la Filmoteca. 
+Esta copia no cuenta con credenciales de acceso, IPs de servidores propios de la institución.
+Se anexa en el directorio _evidencias_ el registro de commits del repositorio original.
+
+---
+
 ## Ejecutar migración completa:
 Movernos al directorio scripts_python.
 Ejecutar el script: `.\script_total <password>`  
